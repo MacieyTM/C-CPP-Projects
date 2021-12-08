@@ -1,1 +1,1 @@
-#Wszystkie projekty ze studiów.
+# Wszystkie projekty ze studiów.
