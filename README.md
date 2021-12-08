@@ -1,1 +1,1 @@
-# University-Projects
+# Wszystkie projekty ze studiów.
