@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../matrixLib/include/matrix/lib.h
+iostream
+-
+
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/matrixLib/src/lib.cpp
+iostream
+-
+matrix/lib.h
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/matrixLib/src/matrix/lib.h
+

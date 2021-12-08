@@ -1,0 +1,8 @@
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/matrixApp/CMakeFiles/matrixApp.dir
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/matrixApp/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/matrixApp/CMakeFiles/rebuild_cache.dir
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/matrixLib/CMakeFiles/matrixLib.dir
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/matrixLib/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/Grochowski_Projekt/cmake-build-debug/matrixLib/CMakeFiles/rebuild_cache.dir
