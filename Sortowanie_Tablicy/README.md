@@ -10,4 +10,4 @@ Program pyta o rozmiar tablicy. Następnie wypełnia tablicę losowymi liczbami 
 3. Sortowanie bąbelkowe.
 4. Sortowanie quicksort.
 5. Sortowanie Shella.
-6. Sortowanie przez kopcowanie.
+6. Sortowanie przez kopcowanie
