@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1618095828 source:c:\users\mghej\documents\codeblocks\semestr ii\aisd - projekt 2\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<sys/time.h>
-
