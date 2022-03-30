@@ -1,1 +1,1 @@
-# Wszystkie większe projekty ze studiów.
+# Wszystkie większe projekty w językach C/C++.
