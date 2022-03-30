@@ -1,1 +1,1 @@
-# Wszystkie większe projekty w językach C/C++.
+# To repozytorium zawiera wszystkie większe projekty w językach C/C++.
